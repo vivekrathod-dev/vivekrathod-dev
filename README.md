@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Vivek Rathod</h1>
-
-<h3 align="center">Full Stack Web Developer | React.js • Django • TypeScript</h3>
+<h1 align="center">Vivek Rathod</h1>
 
 <p align="center">
-  I build modern, responsive, and scalable web applications with clean UI and reliable backend systems.
+  Full Stack Web Developer specializing in modern frontend experiences and scalable backend systems.
+</p>
+
+<p align="center">
+  React.js • TypeScript • Django • PostgreSQL
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 💼 Currently working as a Developer at **Adrta Technologies Private Limited**
-- ⚛️ Frontend: **React.js, TypeScript, JavaScript, HTML, CSS**
-- 🛠 Backend: **Django, REST API**
-- 🗄 Database: **PostgreSQL**
-- 🎯 Focused on **clean code, responsive design, and performance**
-- 🚀 Interested in building **SaaS apps, dashboards, landing pages, and full-stack web apps**
+I am a Full Stack Web Developer focused on building fast, scalable, and user-focused web applications.  
+My expertise includes creating modern frontend interfaces with React.js and developing reliable backend systems using Django and PostgreSQL.
+
+I enjoy building clean digital experiences with strong performance, responsive design, and maintainable architecture.
+
+Currently working on full stack applications, responsive SaaS interfaces, and modern web solutions.
 
 ---
 
-## 🛠 Tech Stack
+## Core Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,django,postgres,bootstrap,git,github,vscode" />
@@ -27,39 +29,53 @@
 
 ---
 
-## 🚀 What I Do
+## Services
 
-- Responsive Website Development
-- React.js Frontend Development
-- Django Backend Development
-- REST API Integration
-- PostgreSQL Database Management
 - Full Stack Web Application Development
-- Landing Page & Portfolio Website Development
+- React.js Frontend Development
+- TypeScript Application Development
+- Django Backend Development
+- REST API Development & Integration
+- Responsive Website Development
+- SaaS Landing Pages
+- Dashboard & Admin Panel Development
+- Performance Optimization
+- UI Implementation from Figma Designs
 
 ---
 
-## 📌 Currently Working On
+## Current Focus
 
-- Building my professional developer portfolio
-- Creating full-stack projects with React.js, TypeScript, Django, and PostgreSQL
-- Improving UI/UX and backend architecture skills
+- Building scalable full stack applications
+- Advanced React.js & TypeScript development
+- Backend architecture with Django
+- Modern UI/UX implementation
+- Performance-focused web experiences
 
 ---
 
-## 📫 Connect With Me
+## Professional Experience
+
+### Adrta Technologies Private Limited
+**Full Stack Developer Intern**
+
+Working on frontend and backend web applications using React.js, Django, and PostgreSQL while contributing to responsive UI development, API integration, and scalable application features.
+
+---
+
+## Contact
 
 - LinkedIn: www.linkedin.com/in/vivek-rathod-a16873269
 - Email: rathodvivek3939@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekrathod-dev&show_icons=true&theme=tokyonight" alt="Vivek GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekrathod-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrathod-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrathod-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
