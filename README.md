@@ -1,26 +1,25 @@
-# Hi 👋, I'm Vivek Rathod
+<h1 align="center">Hi 👋, I'm Vivek Rathod</h1>
 
-### Full Stack Web Developer from India 🇮🇳
+<h3 align="center">Full Stack Web Developer | React.js & Django Developer</h3>
 
-💻 I build responsive and scalable web applications  
-⚛️ Frontend: React.js, HTML, CSS, JavaScript  
-🛠 Backend: Django, REST API  
-🗄 Database: PostgreSQL  
-🌱 Currently learning advanced full stack development  
-🚀 Passionate about clean UI and modern web apps  
+---
+
+### 💻 About Me
+
+- 💻 I build responsive and scalable web applications  
+- ⚛️ Frontend: React.js, HTML, CSS, JavaScript  
+- 🛠 Backend: Django, REST API  
+- 🗄 Database: PostgreSQL  
+- 🌱 Currently learning advanced full stack development  
+- 🚀 Passionate about clean UI and modern web apps  
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Django
-- PostgreSQL
-- Bootstrap
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,postgres,bootstrap,git,github,vscode" />
+</p>
 
 ---
 
@@ -36,3 +35,11 @@
 - Building Full Stack Projects
 - Improving React & Django Skills
 - Creating Modern Responsive Websites
+
+---
+
+## 📊 GitHub Stats
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekrathod-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrathod-dev&layout=compact&theme=tokyonight)
