@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek Rathod
 
-<!--
-**vivekrathod-dev/vivekrathod-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+💻 I build responsive and scalable web applications  
+⚛️ Frontend: React.js, HTML, CSS, JavaScript  
+🛠 Backend: Django, REST API  
+🗄 Database: PostgreSQL  
+🌱 Currently learning advanced full stack development  
+🚀 Passionate about clean UI and modern web apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Django
+- PostgreSQL
+- Bootstrap
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vivek-rathod-a16873269
+- Email: rathodvivek3939@gmail.com
+
+---
+
+## 🚀 Current Focus
+
+- Building Full Stack Projects
+- Improving React & Django Skills
+- Creating Modern Responsive Websites
