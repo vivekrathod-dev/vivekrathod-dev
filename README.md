@@ -40,6 +40,10 @@
 
 ## 📊 GitHub Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekrathod-dev&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekrathod-dev&show_icons=true&theme=tokyonight" alt="Vivek GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrathod-dev&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrathod-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
